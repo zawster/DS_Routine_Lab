@@ -1,0 +1,3 @@
+Running DeepSeek-Janus-Pro-1B on Google Colab CUDA(T4 GPU)
+  Notebook Name: Deepseek_Janus_Pro-1B.ipynb
+    - Before running Janus-Pro notebook, make sure to set the runtime to T4 GPU
