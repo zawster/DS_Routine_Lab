@@ -1,0 +1,7 @@
+chromadb
+openai==1.61.1
+tiktoken==0.8.0
+streamlit==1.42.0
+langchain==0.3.18
+unstructured[pdf]==0.16.20
+langchain_community==0.3.17
